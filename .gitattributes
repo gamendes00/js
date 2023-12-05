@@ -1,6 +1,37 @@
 -Gabriel Alves Mendes
 -Regras do Jogo
--Como jogar
--Como executar
--Créditos - Fontes de referência utilizadas
--Licença do projeto
+Perguntas e Alternativas:
+
+Cada pergunta deve ter um enunciado claro e três alternativas.
+Uma das alternativas deve ser a correta, e as outras duas devem ser distratores plausíveis.
+Pontuação:
+
+O jogador ganha pontos quando responde corretamente.
+Você pode atribuir uma pontuação fixa por pergunta correta, por exemplo, 1 ponto por pergunta.
+Feedback:
+
+Forneça feedback imediato após cada resposta, indicando se a resposta foi correta ou não.
+Se a resposta estiver incorreta, mostre a resposta correta.
+Final do Jogo:
+
+O jogo deve ter um fim, seja após um número fixo de perguntas ou quando todas as perguntas forem respondidas.
+Mostre a pontuação final do jogador ao término do jogo.
+Interatividade:
+
+Utilize uma interface interativa para receber as respostas do jogador.
+No exemplo fornecido, foi usado readline para interação na linha de comando.
+Variabilidade:
+
+Crie um conjunto diversificado de perguntas para manter o jogo interessante.
+Evite padrões previsíveis nas respostas corretas ou nas alternativas.
+Adaptação:
+
+Considere tornar o jogo adaptativo, ajustando a dificuldade com base no desempenho do jogador.
+Extensibilidade:
+
+Facilite a adição de mais perguntas e expansões no futuro.
+Legibilidade e Estrutura de Código:
+
+Mantenha um código limpo e organizado para facilitar a manutenção e expansão.
+Comente o código conforme necessário.
+
